@@ -1,4 +1,4 @@
-# Movie-recommendation
+# Movie-recommendation System
 This project uses the available dataset to recommend movies based on the user preference.
 In this project i have loaded the movie dataset having genre column.
 Then i created text-based feature for each movie using TF-IDF Vectorization.
